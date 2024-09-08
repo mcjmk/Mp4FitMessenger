@@ -17,8 +17,10 @@ This simple bash script solves exactly that problem. It uses `ffmpeg` to compres
 
 ## Usage
 1. Navigate to the project directory:
-`cd Mp4FitMessenger`
-2. Add `inpu4.mp4` file to the project directory
+  ```bash
+  cd Mp4FitMessenger
+  ```
+2. Add `input.mp4` file to the project directory
 3. Run the script:
   ```bash
   sh ./script.sh
